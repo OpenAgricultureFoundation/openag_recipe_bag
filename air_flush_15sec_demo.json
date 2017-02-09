@@ -4,12 +4,12 @@
    "operations": [
        [
            0,
-           "air_flush",
+           "air_flush_on",
            1
        ],
        [
            15,
-           "air_flush",
+           "air_flush_on",
            0
        ]
    ]

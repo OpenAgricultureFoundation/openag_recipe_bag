@@ -1,0 +1,56 @@
+{
+   "_id": "light_temp15_nutrients_air_flush_90sec_demo",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "light_illuminance",
+           1
+       ],
+       [
+           0,
+           "air_temperature",
+           15
+       ],
+       [
+           0,
+           "nutrient_flora_duo_a",
+           0
+       ],
+       [
+           0,
+           "nutrient_flora_duo_b",
+           0
+       ],
+       [
+           30,
+           "nutrient_flora_duo_a",
+           0.2
+       ],
+       [
+           45,
+           "nutrient_flora_duo_b",
+           0.2
+       ],
+       [
+           60,
+           "light_illuminance",
+           0
+       ],
+       [
+           60,
+           "air_temperature",
+           22
+       ],
+       [
+           60,
+           "air_flush_on",
+           1
+       ],
+       [
+           75,
+           "air_flush_on",
+           0
+       ]
+   ]
+}
