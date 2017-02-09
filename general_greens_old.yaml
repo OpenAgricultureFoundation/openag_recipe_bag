@@ -1,0 +1,51 @@
+recipe_name: "general_greens"
+recipe_format: "vector 1.0"
+version: "1.0"
+optimization: ["general purpose"]
+date_created: 2017-02-08
+author: "openag"
+
+stages:
+  - name: early
+    days: 14 # days
+    cycles:
+      hours: 18 # hours
+      air_temperature: 24 # celcius
+      nutrient_flora_duo_a: 1.4 # ml (10 ml/week)
+      nutrient_flora_duo_b: 0.7 # ml (5 ml/week)
+      light_illuminance: 1 # on/off
+    night:
+      hours: 6 # hours
+      air_temperature: 19 # celcius
+
+      nutrient_flora_duo_a: 0 # ml
+      nutrient_flora_duo_b: 0 # ml
+      light_illuminance: 0 # on/off
+  - name: middle
+    cycles: 14 # days
+    day:
+      hours: 18 # hours
+      air_temperature: 24 # celcius
+      nutrient_flora_duo_a: 1.4 # ml (10 ml/week)
+      nutrient_flora_duo_b: 1.4 # ml (10 ml/week)
+      light_illuminance: 1 # on/off
+    night:
+      hours: 6 # hours
+      air_temperature: 19 # celcius
+      nutrient_flora_duo_a: 0 # ml
+      nutrient_flora_duo_b: 0 # ml
+      light_illuminance: 0 # on/off
+  - name: late
+    cycles: 14 # days
+    day:
+      hours: 18 # hours
+      air_temperature: 24 # celcius
+      nutrient_flora_duo_a: 1.1 # ml (7.5 ml/week)
+      nutrient_flora_duo_b: 2.2 # ml (7.5 ml/week)
+      light_illuminance: 1 # on/off
+    night:
+      hours: 6 # hours
+      air_temperature: 19 # celcius
+      nutrient_flora_duo_a: 0 # ml
+      nutrient_flora_duo_b: 0 # ml
+      light_illuminance: 0 # on/off

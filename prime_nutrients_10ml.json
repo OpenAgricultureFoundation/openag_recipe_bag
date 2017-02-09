@@ -1,0 +1,31 @@
+{
+   "_id": "prime_nutrients_10ml",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "nutrient_flora_duo_a",
+           0
+       ],
+       [
+           0,
+           "nutrient_flora_duo_b",
+           0
+       ],
+       [
+           5,
+           "nutrient_flora_duo_a",
+           10
+       ],
+       [
+           30,
+           "nutrient_flora_duo_b",
+           10
+       ],
+       [
+           60,
+           "nutrient_flora_duo_b",
+           0
+       ]
+   ]
+}
