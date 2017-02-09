@@ -7,7 +7,7 @@
   ],
   "date_created": "2017-02-08",
   "author": "openag",
-  "stages": [
+  "operations": [
     {
       "name": "early",
       "cycles": 14,
