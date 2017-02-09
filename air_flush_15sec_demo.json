@@ -1,0 +1,16 @@
+{
+   "_id": "air_flush_15sec_demo",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "air_flush",
+           1
+       ],
+       [
+           15,
+           "air_flush",
+           0
+       ]
+   ]
+}

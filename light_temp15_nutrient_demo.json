@@ -1,0 +1,42 @@
+{
+   "_id": "light_temp15_nutrient_demo",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "light_illuminance",
+           1
+       ],
+       [
+           0,
+           "air_temperature",
+           15
+       ],
+       [
+           0,
+           "nutrient_flora_duo_a",
+           0
+       ],
+       [
+           0,
+           "nutrient_flora_duo_b",
+           0
+       ],
+
+       [
+           30,
+           "nutrient_flora_duo_a",
+           0.2
+       ],
+       [
+           45,
+           "nutrient_flora_duo_b",
+           0.2
+       ],
+       [
+           120,
+           "light_illuminance",
+           0
+       ]
+   ]
+}
