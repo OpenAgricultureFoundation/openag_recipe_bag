@@ -1,6 +1,6 @@
 {
   "_id": "general_greens",
-  "recipe_format": "phased",
+  "format": "phased",
   "version": "1.0",
   "optimization": [
     "general purpose"
