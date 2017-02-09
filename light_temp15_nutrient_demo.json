@@ -34,9 +34,15 @@
            0.2
        ],
        [
-           120,
+           60,
            "light_illuminance",
            0
-       ]
+       ],
+       [
+           60,
+           "air_temperature",
+           22
+       ],
+
    ]
 }
