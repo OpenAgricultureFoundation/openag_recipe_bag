@@ -1,0 +1,16 @@
+{
+   "_id": "chiller_tubing_priming_5min",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "air_temperature",
+           5
+       ],
+       [
+           300,
+           "air_temperature",
+           23
+       ]
+   ]
+}
