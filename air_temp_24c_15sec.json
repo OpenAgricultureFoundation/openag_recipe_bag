@@ -1,0 +1,16 @@
+{
+   "_id": "air_temp_24c_15sec",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "air_temperature",
+           24
+       ],
+       [
+           15,
+           "air_temperature",
+           24
+       ]
+   ]
+}
