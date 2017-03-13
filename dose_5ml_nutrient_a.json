@@ -6,6 +6,11 @@
            0,
            "nutrient_flora_duo_a",
            5
+       ],
+       [
+           10,
+           "nutrient_flora_duo_a",
+           0
        ]
    ]
 }
