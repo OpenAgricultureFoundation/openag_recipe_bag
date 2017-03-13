@@ -8,13 +8,18 @@
            0
        ],
        [
-           1,
+           0,
            "light_intensity_red",
            0
        ],
        [
-           2,
+           0,
            "light_intensity_blue",
+           0
+       ],
+       [
+           10,
+           "light_intensity_white",
            0
        ]
    ]
