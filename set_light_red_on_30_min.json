@@ -1,0 +1,26 @@
+{
+   "_id": "set_light_red_on_30_min",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "light_intensity_red",
+           1
+       ],
+       [
+           0,
+           "light_intensity_blue",
+           0
+       ],
+       [
+           0,
+           "light_intensity_white",
+           0
+       ],
+       [
+           1800,
+           "light_intensity_red",
+           0
+       ]
+   ]
+}
