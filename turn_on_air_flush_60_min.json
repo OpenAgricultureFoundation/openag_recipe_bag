@@ -1,0 +1,11 @@
+{
+   "_id": "turn_on_air_flush_60_min",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "air_flush_on",
+           60
+       ]
+   ]
+}
