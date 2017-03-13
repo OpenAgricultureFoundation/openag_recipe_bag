@@ -1,0 +1,21 @@
+{
+   "_id": "set_lights_on",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "light_intensity_white",
+           1
+       ],
+       [
+           0,
+           "light_intensity_red",
+           1
+       ],
+       [
+           0,
+           "light_intensity_blue",
+           1
+       ]
+   ]
+}
