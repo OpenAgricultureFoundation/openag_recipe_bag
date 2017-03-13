@@ -1,0 +1,16 @@
+{
+   "_id": "set_white_light_on",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "light_intensity_white",
+           1
+       ],
+       [
+           3,
+           "light_intensity_white",
+           1
+       ]
+   ]
+}
