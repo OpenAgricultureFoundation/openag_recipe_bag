@@ -1,0 +1,11 @@
+{
+   "_id": "set_temperature_30c",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "air_temperature",
+           30
+       ]
+   ]
+}
