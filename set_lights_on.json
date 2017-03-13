@@ -1,0 +1,11 @@
+{
+   "_id": "set_lights_on",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "light_illuminance",
+           1.0
+       ]
+   ]
+}
