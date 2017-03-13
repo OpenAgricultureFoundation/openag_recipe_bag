@@ -1,16 +1,11 @@
 {
-   "_id": "air_flush_15sec_demo",
+   "_id": "turn_on_air_flush_1_min",
    "format": "simple",
    "operations": [
        [
            0,
            "air_flush_on",
            1
-       ],
-       [
-           15,
-           "air_flush_on",
-           0
        ]
    ]
 }
