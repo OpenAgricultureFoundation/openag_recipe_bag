@@ -6,6 +6,11 @@
            0,
            "air_temperature",
            15
+       ],
+       [
+           10,
+           "air_temperature",
+           15
        ]
    ]
 }
