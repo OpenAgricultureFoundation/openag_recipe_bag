@@ -1,0 +1,16 @@
+{
+   "_id": "set_ph_6",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "water_potential_hydrogen",
+           6
+       ],
+       [
+           10,
+           "water_potential_hydrogen",
+           6
+       ]
+   ]
+}
