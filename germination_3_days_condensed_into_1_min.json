@@ -1,0 +1,34 @@
+{
+   "_id": "germination_3_days_condensed_into_1_min",
+   "format": "simple",
+   "operations": [
+       [0,"air_temperature",24],
+
+       [0,"light_intensity_red",1],
+       [0,"light_intensity_blue",1],
+       [0,"light_intensity_white",1],
+       [0,"air_flush_on",1],
+       [15,"light_intensity_red",0],
+       [15,"light_intensity_blue",0],
+       [15,"light_intensity_white",0],
+       [15,"air_flush_on",0],
+
+       [20,"light_intensity_red",1],
+       [20,"light_intensity_blue",1],
+       [20,"light_intensity_white",1],
+       [20,"air_flush_on",1],
+       [35,"light_intensity_red",0],
+       [35,"light_intensity_blue",0],
+       [35,"light_intensity_white",0],
+       [35,"air_flush_on",0],
+
+       [40,"light_intensity_red",1],
+       [40,"light_intensity_blue",1],
+       [40,"light_intensity_white",1],
+       [40,"air_flush_on",1],
+       [55,"light_intensity_red",0],
+       [55,"light_intensity_blue",0],
+       [55,"light_intensity_white",0],
+       [55,"air_flush_on",0]
+   ]
+}
