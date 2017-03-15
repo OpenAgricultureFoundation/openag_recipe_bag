@@ -1,0 +1,30 @@
+{
+  "_id": "germination_1_week",
+  "format": "phased",
+  "version": "1.0",
+  "optimization": [
+    "germination"
+  ],
+  "date_created": "2017-02-08",
+  "author": "openag",
+  "operations": [
+    {
+      "name": "early",
+      "cycles": 7,
+      "day": {
+        "hours": 18,
+        "air_temperature": 24,
+        "red_light_intensity": 1,
+        "blue_light_intensity": 1,
+        "white_light_intensity": 1
+      },
+      "night": {
+        "hours": 6,
+        "air_temperature": 24,
+        "red_light_intensity": 0,
+        "blue_light_intensity": 0,
+        "white_light_intensity": 0
+      }
+    }
+  ]
+}
