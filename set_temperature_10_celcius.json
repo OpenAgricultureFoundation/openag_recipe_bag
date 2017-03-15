@@ -1,5 +1,5 @@
 {
-   "_id": "set_temperature_10_celcius_5_min",
+   "_id": "set_temperature_10_celcius",
    "format": "simple",
    "operations": [
        [
@@ -8,7 +8,7 @@
            10
        ],
        [
-           300,
+           10,
            "air_temperature",
            10
        ]
