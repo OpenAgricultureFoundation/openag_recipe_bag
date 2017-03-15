@@ -6,6 +6,21 @@
            0,
            "air_flush_on",
            60
-       ]
+       ],
+       [
+           3600,
+           "air_flush_on",
+           60
+       ],
+       [
+           3600,
+           "air_flush_on",
+           0
+       ],
+       [
+           3610,
+           "air_flush_on",
+           0
+       ],
    ]
 }
