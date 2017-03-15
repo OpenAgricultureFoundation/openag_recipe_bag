@@ -1,30 +1,70 @@
 {
-  "_id": "germination_1_week",
-  "format": "phased",
-  "version": "1.0",
-  "optimization": [
-    "germination"
-  ],
-  "date_created": "2017-02-08",
-  "author": "openag",
-  "operations": [
-    {
-      "name": "early",
-      "cycles": 7,
-      "day": {
-        "hours": 18,
-        "air_temperature": 24,
-        "red_light_intensity": 1,
-        "blue_light_intensity": 1,
-        "white_light_intensity": 1
-      },
-      "night": {
-        "hours": 6,
-        "air_temperature": 24,
-        "red_light_intensity": 0,
-        "blue_light_intensity": 0,
-        "white_light_intensity": 0
-      }
-    }
-  ]
+   "_id": "germination_1_week",
+   "format": "simple",
+   "operations": [
+       [0,"air_temperature",24],
+
+       [0,"light_intensity_red",1],
+       [0,"light_intensity_blue",1],
+       [0,"light_intensity_white",1],
+       [0,"air_flush_on",1],
+       [64800,"light_intensity_red",0],
+       [64800,"light_intensity_blue",0],
+       [64800,"light_intensity_white",0],
+       [64800,"air_flush_on",0],
+
+       [86400,"light_intensity_red",1],
+       [86400,"light_intensity_blue",1],
+       [86400,"light_intensity_white",1],
+       [86400,"air_flush_on",1],
+       [151200,"light_intensity_red",0],
+       [151200,"light_intensity_blue",0],
+       [151200,"light_intensity_white",0],
+       [151200,"air_flush_on",0],
+
+       [172800,"light_intensity_red",1],
+       [172800,"light_intensity_blue",1],
+       [172800,"light_intensity_white",1],
+       [172800,"air_flush_on",1],
+       [237600,"light_intensity_red",0],
+       [237600,"light_intensity_blue",0],
+       [237600,"light_intensity_white",0],
+       [237600,"air_flush_on",0],
+
+       [259200,"light_intensity_red",1],
+       [259200,"light_intensity_blue",1],
+       [259200,"light_intensity_white",1],
+       [259200,"air_flush_on",1],
+       [324000,"light_intensity_red",0],
+       [324000,"light_intensity_blue",0],
+       [324000,"light_intensity_white",0],
+       [324000,"air_flush_on",0],
+
+       [345600,"light_intensity_red",1],
+       [345600,"light_intensity_blue",1],
+       [345600,"light_intensity_white",1],
+       [345600,"air_flush_on",1],
+       [410400,"light_intensity_red",0],
+       [410400,"light_intensity_blue",0],
+       [410400,"light_intensity_white",0],
+       [410400,"air_flush_on",0],
+
+       [432000,"light_intensity_red",1],
+       [432000,"light_intensity_blue",1],
+       [432000,"light_intensity_white",1],
+       [432000,"air_flush_on",1],
+       [496800,"light_intensity_red",0],
+       [496800,"light_intensity_blue",0],
+       [496800,"light_intensity_white",0],
+       [496800,"air_flush_on",0],
+
+       [518400,"light_intensity_red",1],
+       [518400,"light_intensity_blue",1],
+       [518400,"light_intensity_white",1],
+       [518400,"air_flush_on",1],
+       [583200,"light_intensity_red",0],
+       [583200,"light_intensity_blue",0],
+       [583200,"light_intensity_white",0],
+       [583200,"air_flush_on",0]
+   ]
 }
