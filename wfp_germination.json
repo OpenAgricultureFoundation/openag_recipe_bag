@@ -17,7 +17,7 @@
         "air_temperature": 20,
         "light_intensity_red": 0,
         "light_intensity_blue": 0,
-        "light_intensity_white": 0,
+        "light_intensity_white": 0
       },
       "night": {
         "hours": 12,
@@ -25,7 +25,7 @@
         "air_temperature": 20,
         "light_intensity_red": 0,
         "light_intensity_blue": 0,
-        "light_intensity_white": 0,
+        "light_intensity_white": 0
       }
     },
     {
