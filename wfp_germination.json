@@ -1,0 +1,52 @@
+{
+  "_id": "wfp_germination",
+  "format": "phased",
+  "version": "0.0.1",
+  "optimization": [
+    "general purpose"
+  ],
+  "date_created": "2017-03-19",
+  "author": "openag",
+  "operations": [
+    {
+      "name": "germination",
+      "cycles": 2,
+      "day": {
+        "hours": 12,
+        "air_flush_on": 30,
+        "air_temperature": 20,
+        "light_intensity_red": 0,
+        "light_intensity_blue": 0,
+        "light_intensity_white": 0,
+      },
+      "night": {
+        "hours": 12,
+        "air_flush_on": 30,
+        "air_temperature": 20,
+        "light_intensity_red": 0,
+        "light_intensity_blue": 0,
+        "light_intensity_white": 0,
+      }
+    },
+    {
+      "name": "mid",
+      "cycles": 11,
+      "day": {
+        "hours": 12,
+        "air_flush_on": 30,
+        "light_intensity_red": 0.0,
+        "light_intensity_blue": 0.0,
+        "light_intensity_white": 1.0,
+        "air_temperature": 25
+      },
+      "night": {
+        "hours": 12,
+        "air_flush_on": 30,
+        "light_intensity_red": 0.0,
+        "light_intensity_blue": 0.0,
+        "light_intensity_white": 1.0,
+        "air_temperature": 25
+      }
+    }
+  ]
+}
