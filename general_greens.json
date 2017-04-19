@@ -16,14 +16,18 @@
         "air_temperature": 24,
         "nutrient_flora_duo_a": 1.4,
         "nutrient_flora_duo_b": 0.7,
-        "light_illuminance": 1
+        "light_intensity_red": 1,
+        "light_intensity_white": 1,
+        "light_intensity_blue": 1
       },
       "night": {
         "hours": 6,
         "air_temperature": 19,
         "nutrient_flora_duo_a": 0,
         "nutrient_flora_duo_b": 0,
-        "light_illuminance": 0
+        "light_intensity_red": 0,
+        "light_intensity_white": 0,
+        "light_intensity_blue": 0
       }
     },
     {
@@ -34,14 +38,18 @@
         "air_temperature": 24,
         "nutrient_flora_duo_a": 1.4,
         "nutrient_flora_duo_b": 1.4,
-        "light_illuminance": 1
+        "light_intensity_red": 1,
+        "light_intensity_white": 1,
+        "light_intensity_blue": 1
       },
       "night": {
         "hours": 6,
         "air_temperature": 19,
         "nutrient_flora_duo_a": 0,
         "nutrient_flora_duo_b": 0,
-        "light_illuminance": 0
+        "light_intensity_red": 0,
+        "light_intensity_white": 0,
+        "light_intensity_blue": 0
       }
     },
     {
@@ -52,14 +60,18 @@
         "air_temperature": 24,
         "nutrient_flora_duo_a": 1.1,
         "nutrient_flora_duo_b": 2.2,
-        "light_illuminance": 1
+        "light_intensity_red": 1,
+        "light_intensity_white": 1,
+        "light_intensity_blue": 1
       },
       "night": {
         "hours": 6,
         "air_temperature": 19,
         "nutrient_flora_duo_a": 0,
         "nutrient_flora_duo_b": 0,
-        "light_illuminance": 0
+        "light_intensity_red": 0,
+        "light_intensity_white": 0,
+        "light_intensity_blue": 0
       }
     }
   ]
