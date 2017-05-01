@@ -1,0 +1,78 @@
+{
+   "_id": "general_greens",
+   "format": "phased",
+   "version": "1.0",
+   "optimization": [
+       "general purpose"
+   ],
+   "date_created": "2017-02-08",
+   "author": "openag",
+   "operations": [
+       {
+           "name": "early",
+           "cycles": 14,
+           "day": {
+               "hours": 18,
+               "air_temperature": 24,
+               "nutrient_flora_duo_a": 1.4,
+               "nutrient_flora_duo_b": 0.7,
+               "light_intensity_red": 1,
+               "light_intensity_white": 1,
+               "light_intensity_blue": 1
+           },
+           "night": {
+               "hours": 6,
+               "air_temperature": 19,
+               "nutrient_flora_duo_a": 0,
+               "nutrient_flora_duo_b": 0,
+               "light_intensity_red": 0,
+               "light_intensity_white": 0,
+               "light_intensity_blue": 0
+           }
+       },
+       {
+           "name": "middle",
+           "cycles": 14,
+           "day": {
+               "hours": 18,
+               "air_temperature": 24,
+               "nutrient_flora_duo_a": 1.4,
+               "nutrient_flora_duo_b": 1.4,
+               "light_intensity_red": 1,
+               "light_intensity_white": 1,
+               "light_intensity_blue": 1
+           },
+           "night": {
+               "hours": 6,
+               "air_temperature": 19,
+               "nutrient_flora_duo_a": 0,
+               "nutrient_flora_duo_b": 0,
+               "light_intensity_red": 0,
+               "light_intensity_white": 0,
+               "light_intensity_blue": 0
+           }
+       },
+       {
+           "name": "late",
+           "cycles": 14,
+           "day": {
+               "hours": 18,
+               "air_temperature": 24,
+               "nutrient_flora_duo_a": 1.1,
+               "nutrient_flora_duo_b": 2.2,
+               "light_intensity_red": 1,
+               "light_intensity_white": 1,
+               "light_intensity_blue": 1
+           },
+           "night": {
+               "hours": 6,
+               "air_temperature": 19,
+               "nutrient_flora_duo_a": 0,
+               "nutrient_flora_duo_b": 0,
+               "light_intensity_red": 0,
+               "light_intensity_white": 0,
+               "light_intensity_blue": 0
+           }
+       }
+   ]
+}
