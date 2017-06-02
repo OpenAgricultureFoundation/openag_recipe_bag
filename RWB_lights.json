@@ -1,0 +1,19 @@
+{
+   "_id": "RWB_lights",
+   "format": "simple",
+   "operations": [
+       [ 0, "light_intensity_red", 1 ],
+       [ 0, "light_intensity_white", 0 ],
+       [ 0, "light_intensity_blue", 0 ],
+       [ 15, "light_intensity_red", 0 ],
+       [ 15, "light_intensity_white", 1 ],
+       [ 30, "light_intensity_white", 0 ],
+       [ 30, "light_intensity_blue", 1 ],
+       [ 45, "light_intensity_red", 1 ],
+       [ 45, "light_intensity_white", 1 ],
+       [ 60, "light_intensity_red", 0 ],
+       [ 60, "light_intensity_white", 0 ],
+       [ 60, "light_intensity_blue", 0 ]
+   ]
+}
+
