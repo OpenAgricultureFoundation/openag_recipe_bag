@@ -23,11 +23,11 @@
             {"start_time": 6, "end_time": 18, "value": 23},
             {"start_time": 18, "end_time": 24, "value": 19}],
           "nutrient_flora_duo_a": [
-            {"start_time": 0, "end_time": 6, "value": 5},
-            {"start_time": 6, "end_time": 18, "value": 2},
-            {"start_time": 18, "end_time": 24, "value": 5}],
+            {"start_time": 0, "end_time": 6, "value": 100},
+            {"start_time": 6, "end_time": 18, "value": 100},
+            {"start_time": 18, "end_time": 24, "value": 100}],
           "nutrient_flora_duo_b": [
-            {"start_time": 0, "end_time": 6, "value": 2}],
+            {"start_time": 0, "end_time": 6, "value": 100}],
           "light_intensity_red": [
             {"start_time": 0, "end_time": 18, "value": 1},
             {"start_time": 18, "end_time": 24, "value": 0}],
@@ -51,11 +51,11 @@
             {"start_time": 6, "end_time": 18, "value": 23},
             {"start_time": 18, "end_time": 24, "value": 19}],
           "nutrient_flora_duo_a": [
-            {"start_time": 0, "end_time": 6, "value": 5},
-            {"start_time": 6, "end_time": 18, "value": 2},
-            {"start_time": 18, "end_time": 24, "value": 5}],
+            {"start_time": 0, "end_time": 6, "value": 100},
+            {"start_time": 6, "end_time": 18, "value": 100},
+            {"start_time": 18, "end_time": 24, "value": 100}],
           "nutrient_flora_duo_b": [
-            {"start_time": 0, "end_time": 6, "value": 2}],
+            {"start_time": 0, "end_time": 6, "value": 100}],
           "light_intensity_red": [
             {"start_time": 0, "end_time": 18, "value": 1},
             {"start_time": 18, "end_time": 24, "value": 0}],
@@ -79,11 +79,11 @@
             {"start_time": 6, "end_time": 18, "value": 23},
             {"start_time": 18, "end_time": 24, "value": 19}],
           "nutrient_flora_duo_a": [
-            {"start_time": 0, "end_time": 6, "value": 5},
-            {"start_time": 6, "end_time": 18, "value": 2},
-            {"start_time": 18, "end_time": 24, "value": 5}],
+            {"start_time": 0, "end_time": 6, "value": 100},
+            {"start_time": 6, "end_time": 18, "value": 100},
+            {"start_time": 18, "end_time": 24, "value": 100}],
           "nutrient_flora_duo_b": [
-            {"start_time": 0, "end_time": 6, "value": 2}],
+            {"start_time": 0, "end_time": 6, "value": 100}],
           "light_intensity_red": [
             {"start_time": 0, "end_time": 18, "value": 1},
             {"start_time": 18, "end_time": 24, "value": 0}],
