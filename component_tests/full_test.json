@@ -27,6 +27,6 @@
       [20, "air_flush_on", 0],
       [20, "nutrient_flora_duo_a", 0],
       [20, "nutrient_flora_duo_b", 0],
-      [20, "water_potential_hydrogen", 7],
+      [20, "water_potential_hydrogen", 7]
    ]
 }
