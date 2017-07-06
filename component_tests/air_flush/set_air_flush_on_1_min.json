@@ -1,20 +1,20 @@
 {
-   "_id": "set_air_flush_on_1_min",
+   "_id": "set_air_flush_10_cfm_1_min",
    "format": "simple",
    "operations": [
        [
            0,
-           "air_flush_on",
-           1
+           "air_flush",
+           10
        ],
        [
            60,
-           "air_flush_on",
+           "air_flush",
            0
        ],
        [
            70,
-           "air_flush_on",
+           "air_flush",
            0
        ]     
    ]
