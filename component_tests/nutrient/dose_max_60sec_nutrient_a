@@ -1,0 +1,16 @@
+{
+   "_id": "dose_max_60sec_nutrient_a",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "nutrient_flora_duo_a",
+           4764
+       ],
+       [
+           60,
+           "nutrient_flora_duo_a",
+           0
+       ]
+   ]
+}
