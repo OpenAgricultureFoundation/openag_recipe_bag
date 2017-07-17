@@ -1,0 +1,16 @@
+{
+   "_id": "dose_min_360sec_nutrient_b",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "nutrient_flora_duo_b",
+           100
+       ],
+       [
+           360,
+           "nutrient_flora_duo_b",
+           0
+       ]
+   ]
+}
