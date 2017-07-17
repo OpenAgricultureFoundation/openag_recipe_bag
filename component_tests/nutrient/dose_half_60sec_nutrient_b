@@ -1,0 +1,16 @@
+{
+   "_id": "dose_half_60sec_nutrient_b",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "nutrient_flora_duo_b",
+           2382
+       ],
+       [
+           60,
+           "nutrient_flora_duo_b",
+           0
+       ]
+   ]
+}
