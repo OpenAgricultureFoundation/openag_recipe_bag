@@ -1,0 +1,46 @@
+{
+  "_id": "pfc_stable_grow",
+  "format": "flexformat",
+  "version": "1.0",
+  "seeds": ["basil", "http://www.edenbrothers.com/store/sweet_basil_seeds.html"],
+  "plant_type": ["basil", "warm"],
+  "certified_by": ["Peter Konjoian"],
+  "optimization": ["general"],
+  "author": "Jake Rye",
+  "rating": 0,
+  "downloads": 0,
+  "date_created": "2017-08-10",
+  "phases": [
+    { "name": "growth",
+      "cycles": 28,
+      "time_units" : "hours",
+      "step":
+        { "air_temperature": [
+            {"start_time": 0, "end_time": 17, "value": 25},
+            {"start_time": 17, "end_time": 24, "value": 18.3}],
+          "light_intensity_red": [
+            {"start_time": 0, "end_time": 17, "value": 1},
+            {"start_time": 17, "end_time": 24, "value": 0}],
+          "light_intensity_white": [
+            {"start_time": 0, "end_time": 17, "value": 1},
+            {"start_time": 17, "end_time": 24, "value": 0}],
+          "light_intensity_blue": [
+            {"start_time": 0, "end_time": 17, "value": 1},
+            {"start_time": 17, "end_time": 24, "value": 0}],
+          "air_flush": [
+            {"start_time": 0, "end_time": 0.25, "value":10},
+            {"start_time": 2, "end_time": 2.25, "value":10},
+            {"start_time": 4, "end_time": 4.25, "value":10},
+            {"start_time": 6, "end_time": 6.25, "value":10},
+            {"start_time": 8, "end_time": 8.25, "value":10},
+            {"start_time": 10, "end_time": 10.25, "value":10},
+            {"start_time": 12, "end_time": 12.25, "value":10},
+            {"start_time": 14, "end_time": 14.25, "value":10},
+            {"start_time": 16, "end_time": 16.25, "value":10},
+            {"start_time": 18, "end_time": 18.25, "value":10},
+            {"start_time": 20, "end_time": 20.25, "value":10},
+            {"start_time": 22, "end_time": 22.25, "value":10}]
+      }
+    }
+  ]
+}
